@@ -1,4 +1,4 @@
-<h1 align="center">Hey ! Its Sushant Kumar Chhotaray <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px"></h1> 
+<h1 align="center">Hey ! It's Sushant Kumar Chhotaray <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px"></h1> 
 <h3 align="center">Javascript lover ❤️  Full Stack Developer</h3>
 
 
